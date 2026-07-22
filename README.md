@@ -8,7 +8,7 @@
 
 **بوابتك لعالم التدوين والتقنية باللغة العربية**
 
-[![مدونة تقنية](https://img.shields.io/badge/مدونة-العرائش_التقنية-blue?style=for-the-badge&logo=blogger)](https://greatxenforo.blogspot.com)
+[![مدونة تقنية](https://img.shields.io/badge/مدونة-العرائش_التقنية-blue?style=for-the-badge&logo=blogger)](https://larantech.blogspot.com)
 [![عماد الدين لمراني](https://img.shields.io/badge/كاتب-عماد_الدين_لمراني-green?style=for-the-badge&logo=icloud&logoColor=white)]()
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 **مدونة العرائش التقنية** هي وجهتك الأولى للمحتوى العربي المتخصص في عالم التدوين وإدارة المواقع. نسعى لتقديم محتوى تقني متميز يجمع بين الأصالة والحداثة، لنكون جسرك نحو النجاح في العالم الرقمي.
 
 **✍️ كاتب المحتوى:** عماد الدين لمراني  
-**🌐 رابط الموقع:** [greatxenforo.blogspot.com](https://greatxenforo.blogspot.com)
+**🌐 رابط الموقع:** [larantech.blogspot.com]
 
 ---
 
@@ -58,7 +58,7 @@
 
 *   **📧 للتواصل والاستفسارات:** [يمكنك إضافة بريد إلكتروني هنا إن وجد]
 *   **🌐 قم بزيارة المدونة واستكشاف كل جديد:**  
-    👉 **[مدونة العرائش التقنية](https://greatxenforo.blogspot.com)** 👈
+    👉 **[مدونة العرائش التقنية](https://larantech.blogspot.com)** 👈
 
 ---
 
